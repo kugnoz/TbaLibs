@@ -1,0 +1,8 @@
+This project is a library for 'Token-based authentication for Web Applications'.
+
+The android client is available at https://github.com/kugnoz/tba-android-client.
+The web application (for Tomcat) is available at https://github.com/kugnoz/tba-web-app.
+
+If you want compile either project, you must include this library.
+
+This file was modified by IntelliJ IDEA 11.1.1 for binding GitHub repository
